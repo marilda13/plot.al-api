@@ -1,4 +1,3 @@
-plot.al-api
-===========
+ZF2 tutorial application
 
-ZF2 Mini Project for the web services used in plot.al
+See [http://akrabat.com/zend-framework-2-tutorial/](http://akrabat.com/zend-framework-2-tutorial/)
